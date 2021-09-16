@@ -18,12 +18,12 @@ Créditos: https://devdojo.academy/#Cursos
 13 - <s>Tipos primitivos pt 04 - Strings</s><br>
 14 - <s>Tipos primitivos pt 05 - Exercício</s><br>
 15 - <s>Operadores pt 01 - Aritiméticos</s><br>
-16 - Operadores pt 02 - Relacionais<br>
-17 - Operadores pt 03 - Lógicos AND<br>
-18 - Operadores pt 04 - Lógicos OR<br>
-19 - Operadores pt 05 - Atribuição<br>
-20 - Estruturas Condicionais pt 01 - IF<br>
-21 - Estruturas Condicionais pt 02 - ELSE IF<br>
+16 - <s>Operadores pt 02 - Relacionais</s><br>
+17 - <s>Operadores pt 03 - Lógicos AND</s><br>
+18 - <s>Operadores pt 04 - Lógicos OR</s><br>
+19 - <s>Operadores pt 05 - Atribuição</s><br>
+20 - <s>Estruturas Condicionais pt 01 - IF</s><br>
+21 - <s>Estruturas Condicionais pt 02 - ELSE IF</s><br>
 22 - Estruturas Condicionais pt 03 - Operador ternário<br>
 23 - Estruturas Condicionais pt 04 - Tabela Verdade e exercício<br>
 24 - Estruturas Condicionais pt 05 - Resolução do exercícios<br>
