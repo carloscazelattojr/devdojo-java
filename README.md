@@ -24,9 +24,9 @@ Créditos: https://devdojo.academy/#Cursos
 19 - <s>Operadores pt 05 - Atribuição</s><br>
 20 - <s>Estruturas Condicionais pt 01 - IF</s><br>
 21 - <s>Estruturas Condicionais pt 02 - ELSE IF</s><br>
-22 - Estruturas Condicionais pt 03 - Operador ternário<br>
-23 - Estruturas Condicionais pt 04 - Tabela Verdade e exercício<br>
-24 - Estruturas Condicionais pt 05 - Resolução do exercícios<br>
+22 - <s>Estruturas Condicionais pt 03 - Operador ternário</s><br>
+23 - <s>Estruturas Condicionais pt 04 - Tabela Verdade e exercício</s><br>
+24 - E<s>struturas Condicionais pt 05 - Resolução do exercícios</s><br>
 25 - Estruturas Condicionais pt 06 - Switch<br>
 26 - Estruturas Condicionais pt 07 - Switch exercício<br>
 27 - Estruturas de Repetição pt 01 - Laços de repetição while, do while, for<br>
