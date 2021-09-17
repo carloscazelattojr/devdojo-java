@@ -26,13 +26,13 @@ Créditos: https://devdojo.academy/#Cursos
 21 - <s>Estruturas Condicionais pt 02 - ELSE IF</s><br>
 22 - <s>Estruturas Condicionais pt 03 - Operador ternário</s><br>
 23 - <s>Estruturas Condicionais pt 04 - Tabela Verdade e exercício</s><br>
-24 - E<s>struturas Condicionais pt 05 - Resolução do exercícios</s><br>
-25 - Estruturas Condicionais pt 06 - Switch<br>
-26 - Estruturas Condicionais pt 07 - Switch exercício<br>
-27 - Estruturas de Repetição pt 01 - Laços de repetição while, do while, for<br>
-28 - Estruturas de Repetição pt 02 - Exercício for<br>
-29 - Estruturas de Repetição pt 03 - Break<br>
-30 - Estruturas de Repetição pt 04 - Exercício Break<br>
+24 - <s>Estruturas Condicionais pt 05 - Resolução do exercícios</s><br>
+25 - <s>Estruturas Condicionais pt 06 - Switch</s><br>
+26 - <s>Estruturas Condicionais pt 07 - Switch exercício</s><br>
+27 - <s>Estruturas de Repetição pt 01 - Laços de repetição while, do while, for</s><br>
+28 - <s>Estruturas de Repetição pt 02 - Exercício for</s><br>
+29 - <s>Estruturas de Repetição pt 03 - Break</s><br>
+30 - <s>Estruturas de Repetição pt 04 - Exercício Break</s><br>
 31 - Estruturas de Repetição pt 05 - Continue<br>
 32 - Arrays pt 01<br>
 33 - Arrays pt 02<br>
