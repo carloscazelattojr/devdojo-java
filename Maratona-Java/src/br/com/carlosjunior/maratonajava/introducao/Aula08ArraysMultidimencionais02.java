@@ -13,7 +13,17 @@ public class Aula08ArraysMultidimencionais02 {
             for (int valor : arrayBase) {
                 System.out.print(valor);
             }
-
         }
+        System.out.println("Outra forma");
+        int[][] arrayInt2 = {{0,0},{1,1,1},{2,2,2,2,2,2} };
+        for (int[] arrayBase : arrayInt2) {
+            System.out.println("\n-----");
+            for (int valor : arrayBase) {
+                System.out.print(valor);
+            }
+        }
+
+
+
     }
 }
