@@ -33,14 +33,14 @@ Créditos: https://devdojo.academy/#Cursos
 28 - <s>Estruturas de Repetição pt 02 - Exercício for</s><br>
 29 - <s>Estruturas de Repetição pt 03 - Break</s><br>
 30 - <s>Estruturas de Repetição pt 04 - Exercício Break</s><br>
-31 - Estruturas de Repetição pt 05 - Continue<br>
-32 - Arrays pt 01<br>
-33 - Arrays pt 02<br>
-34 - Arrays pt 03<br>
-35 - Arrays pt 04 - Foreach<br>
-36 - Arrays Multidimensionais pt 01<br>
-37 - Arrays Multidimensionais pt 02 - Foreach<br>
-38 - Arrays Multidimensionais pt 03 - Inicialização<br>
+31 - <s>Estruturas de Repetição pt 05 - Continue</s><br>
+32 - <s>Arrays pt 01</s><br>
+33 - <s>Arrays pt 02</s><br>
+34 - <s>Arrays pt 03</s><br>
+35 - <s>Arrays pt 04 - Foreach</s><br>
+36 - <s>Arrays Multidimensionais pt 01</s><br>
+37 - <s>Arrays Multidimensionais pt 02 - Foreach</s><br>
+38 - <s>Arrays Multidimensionais pt 03 - Inicialização</s><br>
 39 - Orientação Objetos pt 01 - Introdução classes pt 01<br>
 40 - Orientação Objetos - Introdução classes pt 02<br>
 41 - Orientação Objetos - Introdução classes pt 03<br>
