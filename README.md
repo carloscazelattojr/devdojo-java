@@ -44,8 +44,8 @@ Créditos: https://devdojo.academy/#Cursos
 39 - <s>Orientação Objetos pt 01 - Introdução classes pt 01</s><br>
 40 - <s>Orientação Objetos - Introdução classes pt 02</s><br>
 41 - <s>Orientação Objetos - Introdução classes - Coesão pt 03</s><br>
-42 - Orientação Objetos - Exercício Classes<br>
-43 - Orientação Objetos - Referência de objetos<br>
+42 - <s>Orientação Objetos - Exercício Classes</s><br>
+43 - <s>Orientação Objetos - Referência de objetos</s><br>
 44 - Orientação Objetos - Métodos pt 01<br>
 45 - Orientação Objetos - Métodos pt 02 - Parâmetros<br>
 46 - Orientação Objetos - Métodos pt 03 - Retorno pt 01<br>
