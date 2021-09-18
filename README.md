@@ -41,9 +41,9 @@ Créditos: https://devdojo.academy/#Cursos
 36 - <s>Arrays Multidimensionais pt 01</s><br>
 37 - <s>Arrays Multidimensionais pt 02 - Foreach</s><br>
 38 - <s>Arrays Multidimensionais pt 03 - Inicialização</s><br>
-39 - Orientação Objetos pt 01 - Introdução classes pt 01<br>
-40 - Orientação Objetos - Introdução classes pt 02<br>
-41 - Orientação Objetos - Introdução classes pt 03<br>
+39 - <s>Orientação Objetos pt 01 - Introdução classes pt 01</s><br>
+40 - <s>Orientação Objetos - Introdução classes pt 02</s><br>
+41 - <s>Orientação Objetos - Introdução classes - Coesão pt 03</s><br>
 42 - Orientação Objetos - Exercício Classes<br>
 43 - Orientação Objetos - Referência de objetos<br>
 44 - Orientação Objetos - Métodos pt 01<br>
