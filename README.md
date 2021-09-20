@@ -54,11 +54,11 @@ Créditos: https://devdojo.academy/#Cursos
 49 - <s>Orientação Objetos - Métodos pt 06 - Parâmetros tipo referência pt 01</s><br>
 50 - <s>Orientação Objetos - Métodos pt 07 - Parâmetros tipo referência pt 02</s><br>
 51 - <s>Orientação Objetos - Métodos pt 08 - Referência this</s><br>
-52 - Orientação Objetos - Métodos pt 09 - Varargs<br>
-53 - Orientação Objetos - Métodos pt 10 - Exercise<br>
-54 - Orientação Objetos - Modificador de acesso private, get e set pt 01<br>
-55 - Orientação Objetos - Modificador de acesso private, get e set pt 02<br>
-56 - Orientação Objetos - Modificador de acesso private, get e set pt 03<br>
+52 - <s>Orientação Objetos - Métodos pt 09 - Varargs</s><br>
+53 - <s>Orientação Objetos - Métodos pt 10 - Exercise</s><br>
+54 - <s>Orientação Objetos - Modificador de acesso private, get e set pt 01</s><br>
+55 - <s>Orientação Objetos - Modificador de acesso private, get e set pt 02</s><br>
+56 - <s>Orientação Objetos - Modificador de acesso private, get e set pt 03</s><br>
 57 - Orientação Objetos - Sobrecarga de métodos<br>
 58 - Orientação Objetos - Construtores pt 01<br>
 59 - Orientação Objetos - Construtores pt 02 - Sobrecarga<br>
