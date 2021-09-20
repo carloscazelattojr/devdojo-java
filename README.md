@@ -46,14 +46,14 @@ Créditos: https://devdojo.academy/#Cursos
 41 - <s>Orientação Objetos - Introdução classes - Coesão pt 03</s><br>
 42 - <s>Orientação Objetos - Exercício Classes</s><br>
 43 - <s>Orientação Objetos - Referência de objetos</s><br>
-44 - Orientação Objetos - Métodos pt 01<br>
-45 - Orientação Objetos - Métodos pt 02 - Parâmetros<br>
-46 - Orientação Objetos - Métodos pt 03 - Retorno pt 01<br>
-47 - Orientação Objetos - Métodos pt 04 - Retorno pt 02<br>
-48 - Orientação Objetos - Métodos pt 05 - Parâmetros tipo primitivo<br>
-49 - Orientação Objetos - Métodos pt 06 - Parâmetros tipo referência pt 01<br>
-50 - Orientação Objetos - Métodos pt 07 - Parâmetros tipo referência pt 02<br>
-51 - Orientação Objetos - Métodos pt 08 - Referência this<br>
+44 - <s>Orientação Objetos - Métodos pt 01</s><br>
+45 - <s>Orientação Objetos - Métodos pt 02 - Parâmetros</s><br>
+46 - <s>Orientação Objetos - Métodos pt 03 - Retorno pt 01</s><br>
+47 - <s>Orientação Objetos - Métodos pt 04 - Retorno pt 02</s><br>
+48 - <s>Orientação Objetos - Métodos pt 05 - Parâmetros tipo primitivo</s><br>
+49 - <s>Orientação Objetos - Métodos pt 06 - Parâmetros tipo referência pt 01</s><br>
+50 - <s>Orientação Objetos - Métodos pt 07 - Parâmetros tipo referência pt 02</s><br>
+51 - <s>Orientação Objetos - Métodos pt 08 - Referência this</s><br>
 52 - Orientação Objetos - Métodos pt 09 - Varargs<br>
 53 - Orientação Objetos - Métodos pt 10 - Exercise<br>
 54 - Orientação Objetos - Modificador de acesso private, get e set pt 01<br>
