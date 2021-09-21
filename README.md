@@ -3,6 +3,7 @@
 Créditos: https://devdojo.academy/#Cursos
 
 ## Maratona Java
+
 01 - <s>O que esperar do curso</s><br>
 02 - <s>Como Java Funciona</s><br>
 03 - <s>Fazendo o download da JDK 15</s><br>
@@ -59,15 +60,15 @@ Créditos: https://devdojo.academy/#Cursos
 54 - <s>Orientação Objetos - Modificador de acesso private, get e set pt 01</s><br>
 55 - <s>Orientação Objetos - Modificador de acesso private, get e set pt 02</s><br>
 56 - <s>Orientação Objetos - Modificador de acesso private, get e set pt 03</s><br>
-57 - Orientação Objetos - Sobrecarga de métodos<br>
-58 - Orientação Objetos - Construtores pt 01<br>
-59 - Orientação Objetos - Construtores pt 02 - Sobrecarga<br>
-60 - Orientação Objetos - Blocos de inicialização<br>
-61 - Orientação Objetos - Modificador static<br>
-62 - Orientação Objetos - Métodos estáticos<br>
-63 - Orientação Objetos - Bloco de inicialização estático<br>
-64 - Orientação Objetos - Associação pt 01 - Arrays com Objetos<br>
-65 - Orientação Objetos - Associação pt 02 - Associação unidirecional um para muitos<br>
+57 - <s>Orientação Objetos - Sobrecarga de métodos</s><br>
+58 - <s>Orientação Objetos - Construtores pt 01</s><br>
+59 - <s>Orientação Objetos - Construtores pt 02 - Sobrecarga</s><br>
+60 - <s>Orientação Objetos - Blocos de inicialização</s><br>
+61 - <s>Orientação Objetos - Modificador static</s><br>
+62 - <s>Orientação Objetos - Métodos estáticos</s><br>
+63 - <s>Orientação Objetos - Bloco de inicialização estático</s><br>
+64 - <s>Orientação Objetos - Associação pt 01 - Arrays com Objetos</s><br>
+65 - <s>Orientação Objetos - Associação pt 02 - Associação unidirecional um para muitos</s><br>
 66 - Orientação Objetos - Associação pt 03 - Associação unidirecional muitos para um<br>
 67 - Orientação Objetos - Associação pt 04 - Associação bidirecional<br>
 68 - Orientação Objetos - Leitura de dados pelo console<br>
