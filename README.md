@@ -69,9 +69,9 @@ Créditos: https://devdojo.academy/#Cursos
 63 - <s>Orientação Objetos - Bloco de inicialização estático</s><br>
 64 - <s>Orientação Objetos - Associação pt 01 - Arrays com Objetos</s><br>
 65 - <s>Orientação Objetos - Associação pt 02 - Associação unidirecional um para muitos</s><br>
-66 - Orientação Objetos - Associação pt 03 - Associação unidirecional muitos para um<br>
-67 - Orientação Objetos - Associação pt 04 - Associação bidirecional<br>
-68 - Orientação Objetos - Leitura de dados pelo console<br>
+66 - <s>Orientação Objetos - Associação pt 03 - Associação unidirecional muitos para um</s><br>
+67 - <s>Orientação Objetos - Associação pt 04 - Associação bidirecional</s><br>
+68 - <s>Orientação Objetos - Leitura de dados pelo console</s><br>
 69 - Orientação Objetos - Exercício leitura de dados do teclado<br>
 70 - Orientação Objetos - Associação pt 05 - Exercício Associação<br>
 71 - Orientação Objetos - Herança pt 01<br>
