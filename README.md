@@ -78,18 +78,18 @@ Créditos: https://devdojo.academy/#Cursos
 72 - <s>Orientação Objetos - Herança pt 02 - Super</s><br>
 73 - <s>Orientação Objetos - Herança pt 03 - protected</s><br>
 74 - <s>Orientação Objetos - Herança pt 04 - Construtores</s><br>
-75 - <s>Orientação Objetos - Herança pt 05 - Sequência de inicialização<br>
-76 - Orientação Objetos - Sobrescrita do método toString<br>
-77 - Orientação Objetos - Modificador final pt 01 - Tipo primitivo<br>
-78 - Orientação Objetos - Modificador final pt 02 - Tipo referência<br>
-79 - Orientação Objetos - Modificador final pt 03 - Classes e métodos<br>
-80 - Orientação Objetos - Enumeração pt 01 - Introdução<br>
-81 - Orientação Objetos - Enumeração pt 02 - Construtores e atributos<br>
-82 - Orientação Objetos - Enumeração pt 03 - Sobrescrita de métodos<br>
-83 - Orientação Objetos - Enumeração pt 04 - Busca por atributos<br>
-84 - Orientação Objetos - Classes abstratas pt 01<br>
-85 - Orientação Objetos - Classes abstratas pt 02 - Métodos abstratos<br>
-86 - Orientação Objetos - Classes abstratas pt 03 - Métodos abstratos regras<br>
+75 - <s>Orientação Objetos - Herança pt 05 - Sequência de inicialização</s><br>
+76 - <s>Orientação Objetos - Sobrescrita do método toString</s><br>
+77 - <s>Orientação Objetos - Modificador final pt 01 - Tipo primitivo</s><br>
+78 - <s>Orientação Objetos - Modificador final pt 02 - Tipo referência</s><br>
+79 - <s>Orientação Objetos - Modificador final pt 03 - Classes e métodos</s><br>
+80 - <s>Orientação Objetos - Enumeração pt 01 - Introdução</s><br>
+81 - <s>Orientação Objetos - Enumeração pt 02 - Construtores e atributos</s><br>
+82 - <s>Orientação Objetos - Enumeração pt 03 - Sobrescrita de métodos</s><br>
+83 - <s>Orientação Objetos - Enumeração pt 04 - Busca por atributos</s><br>
+84 - <s>Orientação Objetos - Classes abstratas pt 01</s><br>
+85 - <s>Orientação Objetos - Classes abstratas pt 02 - Métodos abstratos</s><br>
+86 - <s>Orientação Objetos - Classes abstratas pt 03 - Métodos abstratos regras</s><br>
 87 - Orientação Objetos - Interfaces pt 01 - Introdução<br>
 88 - Orientação Objetos - Interfaces pt 02 - Implementando múltiplas interfaces<br>
 89 - Orientação Objetos - Interfaces pt 03 - Atributos e métodos estáticos<br>
