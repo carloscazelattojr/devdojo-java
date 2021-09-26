@@ -72,13 +72,13 @@ Créditos: https://devdojo.academy/#Cursos
 66 - <s>Orientação Objetos - Associação pt 03 - Associação unidirecional muitos para um</s><br>
 67 - <s>Orientação Objetos - Associação pt 04 - Associação bidirecional</s><br>
 68 - <s>Orientação Objetos - Leitura de dados pelo console</s><br>
-69 - Orientação Objetos - Exercício leitura de dados do teclado<br>
-70 - Orientação Objetos - Associação pt 05 - Exercício Associação<br>
-71 - Orientação Objetos - Herança pt 01<br>
-72 - Orientação Objetos - Herança pt 02 - Super<br>
-73 - Orientação Objetos - Herança pt 03 - protected<br>
-74 - Orientação Objetos - Herança pt 04 - Construtores<br>
-75 - Orientação Objetos - Herança pt 05 - Sequência de inicialização<br>
+69 - <s>Orientação Objetos - Exercício leitura de dados do teclado</s><br>
+70 - <s>Orientação Objetos - Associação pt 05 - Exercício Associação</s><br>
+71 - <s>Orientação Objetos - Herança pt 01</s><br>
+72 - <s>Orientação Objetos - Herança pt 02 - Super</s><br>
+73 - <s>Orientação Objetos - Herança pt 03 - protected</s><br>
+74 - <s>Orientação Objetos - Herança pt 04 - Construtores</s><br>
+75 - <s>Orientação Objetos - Herança pt 05 - Sequência de inicialização<br>
 76 - Orientação Objetos - Sobrescrita do método toString<br>
 77 - Orientação Objetos - Modificador final pt 01 - Tipo primitivo<br>
 78 - Orientação Objetos - Modificador final pt 02 - Tipo referência<br>
