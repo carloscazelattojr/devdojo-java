@@ -90,11 +90,11 @@ Créditos: https://devdojo.academy/#Cursos
 84 - <s>Orientação Objetos - Classes abstratas pt 01</s><br>
 85 - <s>Orientação Objetos - Classes abstratas pt 02 - Métodos abstratos</s><br>
 86 - <s>Orientação Objetos - Classes abstratas pt 03 - Métodos abstratos regras</s><br>
-87 - Orientação Objetos - Interfaces pt 01 - Introdução<br>
-88 - Orientação Objetos - Interfaces pt 02 - Implementando múltiplas interfaces<br>
-89 - Orientação Objetos - Interfaces pt 03 - Atributos e métodos estáticos<br>
-90 - Orientação Objetos - Polimorfismo pt 01 - Introdução<br>
-91 - Orientação Objetos - Polimorfismo pt 02 - Funcionamento<br>
+87 - <s>Orientação Objetos - Interfaces pt 01 - Introdução</s><br>
+88 - <s>Orientação Objetos - Interfaces pt 02 - Implementando múltiplas interfaces</s><br>
+89 - <s>Orientação Objetos - Interfaces pt 03 - Atributos e métodos estáticos</s><br>
+90 - <s>Orientação Objetos - Polimorfismo pt 01 - Introdução</s><br>
+91 - <s>Orientação Objetos - Polimorfismo pt 02 - Funcionamento</s><br>
 92 - Orientação Objetos - Polimorfismo pt 03 - Parâmetros polimórficos<br>
 93 - Orientação Objetos - Polimorfismo pt 04 - Cast e instanceof<br>
 94 - Orientação Objetos - Polimorfismo pt 05 - Programação orientada a interface<br>
