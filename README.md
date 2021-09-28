@@ -95,18 +95,18 @@ Créditos: https://devdojo.academy/#Cursos
 89 - <s>Orientação Objetos - Interfaces pt 03 - Atributos e métodos estáticos</s><br>
 90 - <s>Orientação Objetos - Polimorfismo pt 01 - Introdução</s><br>
 91 - <s>Orientação Objetos - Polimorfismo pt 02 - Funcionamento</s><br>
-92 - Orientação Objetos - Polimorfismo pt 03 - Parâmetros polimórficos<br>
-93 - Orientação Objetos - Polimorfismo pt 04 - Cast e instanceof<br>
-94 - Orientação Objetos - Polimorfismo pt 05 - Programação orientada a interface<br>
-95 - Exceções pt 01 - Errors<br>
-96 - Exceções pt 02 - RuntimeException<br>
-97 - Exceções pt 03 - Exception<br>
-98 - Exceções pt 04 - Lançando exceção unchecked<br>
-99 - Exceções pt 05 - Lançando exceção checked<br>
-100 - Exceções pt 06 - Bloco Finally<br>
-101 - Exceções pt 07 - Capturando múltiplas exceções<br>
-102 - Exceções pt 08 - Multi catch em linha<br>
-103 - Exceções pt 09 - Try with resources<br>
+92 - <s>Orientação Objetos - Polimorfismo pt 03 - Parâmetros polimórficos</s><br>
+93 - <s>Orientação Objetos - Polimorfismo pt 04 - Cast e instanceof</s><br>
+94 - <s>Orientação Objetos - Polimorfismo pt 05 - Programação orientada a interface</s><br>
+95 - <s>Exceções pt 01 - Errors</s><br>
+96 - <s>Exceções pt 02 - RuntimeException</s><br>
+97 - <s>Exceções pt 03 - Exception</s><br>
+98 - <s>Exceções pt 04 - Lançando exceção unchecked</s><br>
+99 - <s>Exceções pt 05 - Lançando exceção checked</s><br>
+100 - <s>Exceções pt 06 - Bloco Finally</s><br>
+101 - <s>Exceções pt 07 - Capturando múltiplas exceções</s><br>
+102 - <s>Exceções pt 08 - Multi catch em linha</s><br>
+103 - <s>Exceções pt 09 - Try with resources</s><br>
 104 - Exceções pt 10 - Exceção customizada<br>
 105 - Exceções pt 11 - Exceção e regras de sobrescrita<br>
 106 - Classes Utilitárias - Wrappers pt 01<br>
