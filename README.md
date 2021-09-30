@@ -107,9 +107,9 @@ Créditos: https://devdojo.academy/#Cursos
 101 - <s>Exceções pt 07 - Capturando múltiplas exceções</s><br>
 102 - <s>Exceções pt 08 - Multi catch em linha</s><br>
 103 - <s>Exceções pt 09 - Try with resources</s><br>
-104 - Exceções pt 10 - Exceção customizada<br>
-105 - Exceções pt 11 - Exceção e regras de sobrescrita<br>
-106 - Classes Utilitárias - Wrappers pt 01<br>
+104 - <s>Exceções pt 10 - Exceção customizada</s><br>
+105 - <s>Exceções pt 11 - Exceção e regras de sobrescrita</s><br>
+106 - <s>Classes Utilitárias - Wrappers pt 01<br>
 107 - Classes Utilitárias - Wrappers pt 02<br>
 108 - Classes Utilitárias - Strings pt 01<br>
 109 - Classes Utilitárias - Strings pt 02<br>

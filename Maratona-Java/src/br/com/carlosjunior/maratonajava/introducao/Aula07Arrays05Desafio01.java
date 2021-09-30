@@ -4,7 +4,7 @@ public class Aula07Arrays05Desafio01 {
 
     public static String compute_ranking(String scores){
         System.out.println(scores.length());
-        for (int i = 0; i < ; i++) {
+        for (int i = 0; i <1 ; i++) {
             
         }
         return scores;
