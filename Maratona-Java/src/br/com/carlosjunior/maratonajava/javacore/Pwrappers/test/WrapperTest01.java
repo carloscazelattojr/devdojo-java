@@ -21,5 +21,16 @@ public class WrapperTest01 {
         Character charW = 'P';
         Boolean booleanW = false;
 
+        int i = intW;
+        Integer iW2 = Integer.parseInt("1");
+        boolean verdadeiro = Boolean.parseBoolean("true");
+        System.out.println(Character.isDigit('a'));
+        System.out.println(Character.isDigit('9'));
+        System.out.println(Character.isLetterOrDigit('!'));
+        System.out.println(Character.isUpperCase('a'));
+        System.out.println(Character.isLowerCase('a'));
+        System.out.println(Character.toUpperCase('a'));
+        System.out.println(Character.toLowerCase('a'));
+
     }
 }

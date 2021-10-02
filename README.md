@@ -110,14 +110,14 @@ Créditos: https://devdojo.academy/#Cursos
 104 - <s>Exceções pt 10 - Exceção customizada</s><br>
 105 - <s>Exceções pt 11 - Exceção e regras de sobrescrita</s><br>
 106 - <s>Classes Utilitárias - Wrappers pt 01<br>
-107 - Classes Utilitárias - Wrappers pt 02<br>
-108 - Classes Utilitárias - Strings pt 01<br>
-109 - Classes Utilitárias - Strings pt 02<br>
-110 - Classes Utilitárias - Strings pt 03 - Desempenho<br>
-111 - Classes Utilitárias - Strings pt 04 - StringBuilder<br>
-112 - Classes Utilitárias - Date<br>
-113 - Classes Utilitárias - Calendar<br>
-114 - Classes Utilitárias - DateFormat<br>
+107 - <s>Classes Utilitárias - Wrappers pt 02</s><br>
+108 - <s>Classes Utilitárias - Strings pt 01</s><br>
+109 - <s>Classes Utilitárias - Strings pt 02</s><br>
+110 - <s>Classes Utilitárias - Strings pt 03 - Desempenho</s><br>
+111 - <s>Classes Utilitárias - Strings pt 04 - StringBuilder</s><br>
+112 - <s>Classes Utilitárias - Date</s><br>
+113 - <s>Classes Utilitárias - Calendar</s><br>
+114 - <s>Classes Utilitárias - DateFormat</s><br>
 115 - Classes Utilitárias - Internacionalização Datas com Locale<br>
 116 - Classes Utilitárias - Internacionalização Números com Locale<br>
 117 - Classes Utilitárias - Internacionalização de moeda com Locale<br>
