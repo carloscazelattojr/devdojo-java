@@ -120,13 +120,13 @@ Créditos: https://devdojo.academy/#Cursos
 114 - <s>Classes Utilitárias - DateFormat</s><br>
 115 - <s>Classes Utilitárias - Internacionalização Datas com Locale</s><br>
 116 - <s>Classes Utilitárias - Internacionalização Números com Locale</s><br>
-117 - <s>Classes Utilitárias - Internacionalização de moeda com Locale<br>
+117 - <s>Classes Utilitárias - Internacionalização de moeda com Locale</s><br>
 118 - Classes Utilitárias - SimpleDateFormat<br>
 119 - <s>Classes Utilitárias - LocalDate</s><br>
 120 - Classes Utilitárias - LocalTime<br>
 121 - Classes Utilitárias - LocalDateTime<br>
 122 - <s>Classes Utilitárias - Instant</s><br>
-123 - Classes Utilitárias - Duration<br>
+123 - <s>Classes Utilitárias - Duration</s><br>
 124 - Classes Utilitárias - Period<br>
 125 - Classes Utilitárias - ChronoUnit<br>
 126 - Classes Utilitárias - TemporalAdjusters<br>
@@ -134,7 +134,7 @@ Créditos: https://devdojo.academy/#Cursos
 128 - Classes Utilitárias - ZonedDateTime, ZoneId, OffsetDateTime<br>
 129 - Classes Utilitárias - DateTimeFormatter<br>
 130 - Classes Utilitárias - ResourceBundle<br>
-131 - Classes Utilitárias - Regex pt 01 - Pattern e Matcher<br>
+131 - <s>Classes Utilitárias - Regex pt 01 - Pattern e Matcher</s><br>
 132 - Classes Utilitárias - Regex pt 02 - Pattern e Matcher - Meta caracteres<br>
 133 - Classes Utilitárias - Regex pt 03 - Pattern e Matcher - Range<br>
 134 - Classes Utilitárias - Regex pt 04 - Pattern e Matcher - Quantificadores pt 01<br>
