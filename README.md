@@ -109,7 +109,7 @@ Créditos: https://devdojo.academy/#Cursos
 103 - <s>Exceções pt 09 - Try with resources</s><br>
 104 - <s>Exceções pt 10 - Exceção customizada</s><br>
 105 - <s>Exceções pt 11 - Exceção e regras de sobrescrita</s><br>
-106 - <s>Classes Utilitárias - Wrappers pt 01<br>
+106 - <s>Classes Utilitárias - Wrappers pt 01</s><br>
 107 - <s>Classes Utilitárias - Wrappers pt 02</s><br>
 108 - <s>Classes Utilitárias - Strings pt 01</s><br>
 109 - <s>Classes Utilitárias - Strings pt 02</s><br>
@@ -118,14 +118,14 @@ Créditos: https://devdojo.academy/#Cursos
 112 - <s>Classes Utilitárias - Date</s><br>
 113 - <s>Classes Utilitárias - Calendar</s><br>
 114 - <s>Classes Utilitárias - DateFormat</s><br>
-115 - Classes Utilitárias - Internacionalização Datas com Locale<br>
-116 - Classes Utilitárias - Internacionalização Números com Locale<br>
-117 - Classes Utilitárias - Internacionalização de moeda com Locale<br>
+115 - <s>Classes Utilitárias - Internacionalização Datas com Locale</s><br>
+116 - <s>Classes Utilitárias - Internacionalização Números com Locale</s><br>
+117 - <s>Classes Utilitárias - Internacionalização de moeda com Locale<br>
 118 - Classes Utilitárias - SimpleDateFormat<br>
-119 - Classes Utilitárias - LocalDate<br>
+119 - <s>Classes Utilitárias - LocalDate</s><br>
 120 - Classes Utilitárias - LocalTime<br>
 121 - Classes Utilitárias - LocalDateTime<br>
-122 - Classes Utilitárias - Instant<br>
+122 - <s>Classes Utilitárias - Instant</s><br>
 123 - Classes Utilitárias - Duration<br>
 124 - Classes Utilitárias - Period<br>
 125 - Classes Utilitárias - ChronoUnit<br>
